@@ -81,8 +81,8 @@
 ##   (Figure 4 panels A–B) using the same igraph objects.
 ##
 ## Reproducibility --------------------------------------------------------------
-## • During PR process further instructions will be provided in Zenodo or OSF, for the reviewers to run the code
-## automatically.
+## • During the peer review process, additional instructions will be provided via Zenodo or OSF to enable reviewers to run the code automatically.
+
 
 Please cite paper "Depression in Friendly and Adversarial Social Networks in Isolated Honduran Villages".
 All the code belongs to HNL Yale University.
